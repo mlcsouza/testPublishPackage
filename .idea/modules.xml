@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Test Packages.iml" filepath="$PROJECT_DIR$/Test Packages.iml" group="Test Packages" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Test Packages/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/testPublishPackage.iml" filepath="$PROJECT_DIR$/.idea/testPublishPackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testlibrary/testlibrary.iml" filepath="$PROJECT_DIR$/testlibrary/testlibrary.iml" group="Test Packages/testlibrary" />
     </modules>
   </component>
 </project>
