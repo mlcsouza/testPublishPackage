@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GitHubPublish.iml" filepath="$PROJECT_DIR$/GitHubPublish.iml" group="GitHubPublish" />
       <module fileurl="file://$PROJECT_DIR$/Test Packages.iml" filepath="$PROJECT_DIR$/Test Packages.iml" group="Test Packages" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Test Packages/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="GitHubPublish/app" />
+      <module fileurl="file://$PROJECT_DIR$/system/system.iml" filepath="$PROJECT_DIR$/system/system.iml" group="GitHubPublish/system" />
       <module fileurl="file://$PROJECT_DIR$/.idea/testPublishPackage.iml" filepath="$PROJECT_DIR$/.idea/testPublishPackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testlib2/testlib2.iml" filepath="$PROJECT_DIR$/testlib2/testlib2.iml" group="Test Packages/testlib2" />
       <module fileurl="file://$PROJECT_DIR$/testlibrary/testlibrary.iml" filepath="$PROJECT_DIR$/testlibrary/testlibrary.iml" group="Test Packages/testlibrary" />
     </modules>
   </component>

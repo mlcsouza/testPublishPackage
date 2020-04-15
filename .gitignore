@@ -1,2 +1,5 @@
 .idea/
-.gradle/
+.gradle
+github_credentials.properties
+.DS_Store
+*.iml
